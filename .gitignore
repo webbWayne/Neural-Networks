@@ -1,0 +1,12 @@
+# Ignore the virtual environment
+venv/
+.venv/
+env/
+
+# Ignore python cache files
+__pycache__/
+*.pyc
+
+# Ignore the MNIST data directory (change 'data' to whatever your folder is named)
+data/
+mnist/
